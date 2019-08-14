@@ -61,21 +61,5 @@ deep_learning_method.py 是自行设计的简单深度学习模型，进行表�
 【实验】
 利用基于关键点的特征表示方法，在新的 FERPlus 较为准确的 FER+数据集上，得到7种表情平均准确度 0.75左右；
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+目前，fer2013上比较好的模型是基于vgg19，数据集公开测试集的准确率大概0.73左右；
+参考（https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch）
