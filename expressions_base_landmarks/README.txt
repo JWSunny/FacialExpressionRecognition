@@ -63,3 +63,10 @@ deep_learning_method.py 是自行设计的简单深度学习模型，进行表�
 
 目前，fer2013上比较好的模型是基于vgg19，数据集公开测试集的准确率大概0.73左右；
 参考（https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch）
+
+【Feature Relative Works】
+database: Real-world Affective Faces Database, a large-scale facial expression database;
+【Processing】
+Similarly, through the above-mentioned methos based on facial landmarks, the landmarks of the faces in the emotion images can be
+obtained, and the feature representation methods based on facial landmarks used to acquire the features of corresponding emotion images,
+finally, choose machine learning classification models or simple deeplearning models designed by yourself.
